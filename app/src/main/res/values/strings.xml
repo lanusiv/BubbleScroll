@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BubbleScroll</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scroll_view_demo">ScrollViewDemo</string>
+    <string name="title_activity_recycler_view_demo">RecyclerViewDemo</string>
+    <string name="title_activity_linear_layout_demo">LinearLayoutDemo</string>
+
+    <string name="test_content">"The Data Binding library beta release is subject to significant changes, including those which are not source code compatible with your app. "</string>
+</resources>
